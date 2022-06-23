@@ -13,6 +13,7 @@ Bookshelf is a react-native app used in the project #9 of the AI Engineer Open C
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/get-npm)
+- [Expo](https://docs.expo.dev/get-started/installation/)
 
 if you want to preview the app on a real phone, you need to install the [android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [iOS](https://apps.apple.com/app/expo-client/id982107779) expo app
 
@@ -20,7 +21,7 @@ _Expo is platform to preview mobile apps. It uses either the iOS or android simu
 
 ## Installation
 
-First, make sure you have [node](https://nodejs.org/) and [npm](https://www.npmjs.com/get-npm) installed.
+First, make sure you have [node](https://nodejs.org/), [Expo](https://docs.expo.dev/get-started/installation/) and [npm](https://www.npmjs.com/get-npm) installed.
 
 Then, clone this repo, install required dependencies using `npm install` in the project directory.
 
