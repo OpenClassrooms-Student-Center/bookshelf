@@ -3,12 +3,12 @@ import {
   StyleSheet,
   Text,
   View,
-  Picker,
   Button,
   Image,
   FlatList
 } from "react-native";
 import config from "./config.json";
+import { Picker } from "@react-native-picker/picker";
 import axios from "axios";
 
 class App extends Component {
